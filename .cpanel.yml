@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jikznsgf/webisnis.id/digemari
+    - export DEPLOYPATH=/home/jikznsgf/digemari.webisnis.id
     - /bin/cp -a * $DEPLOYPATH
